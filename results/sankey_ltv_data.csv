@@ -1,0 +1,11 @@
+source,target,value,conversion_rate
+Trial,1st Payment,1117,0.3504863508001255
+Trial,Churn after Trial,2070,0.6495136491998745
+1st Payment,2nd Payment,831,0.7439570277529096
+1st Payment,Churn after 1st,286,0.2560429722470904
+2nd Payment,3rd Payment,690,0.8303249097472925
+2nd Payment,Churn after 2nd,141,0.16967509025270755
+3rd Payment,4th Payment,591,0.8565217391304348
+3rd Payment,Churn after 3rd,99,0.14347826086956517
+4th Payment,5th Payment,524,0.8866328257191202
+4th Payment,Churn after 4th,67,0.11336717428087983

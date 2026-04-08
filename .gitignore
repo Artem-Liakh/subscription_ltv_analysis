@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.bak
+
+# Mac system files (иногда больше мусора)
+.AppleDouble
+.LSOverride
+
+# Python virtual env (если вдруг появится)
+venv/
+.env/
+
+# Jupyter autosaves (иногда всплывают)
+*.ipynb_checkpoints
