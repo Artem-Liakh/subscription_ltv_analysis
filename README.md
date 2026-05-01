@@ -192,3 +192,5 @@ This analysis helps:
 ## 👨‍💻 Author
 
 Artem Liakh
+
+This project is released under the MIT License.
