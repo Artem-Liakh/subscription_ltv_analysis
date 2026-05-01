@@ -1,11 +1,10 @@
 # 📊 Subscription LTV Analysis
 
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)
-![Python](https://img.shields.io/badge/Python-Pandas-yellow)
-![Tableau](https://img.shields.io/badge/Visualization-Tableau-orange)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-![Focus](https://img.shields.io/badge/Focus-LTV%20%26%20Retention-purple)
-
+[![SQL](https://img.shields.io/badge/SQL-LTV%20Query-blue)](sql/subscription_probabilistic_ltv.sql)
+[![Python](https://img.shields.io/badge/Python-Data%20Preparation-yellow)](notebooks/sankey_ltv_data_for_generation.ipynb)
+[![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)](https://public.tableau.com/views/ProbabilisticExpectedLTV/Sankey?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Status](https://img.shields.io/badge/Status-Production--Ready-brightgreen)](#business-impact)
+[![Focus](https://img.shields.io/badge/Focus-Product%20Analytics%20%7C%20LTV-purple)](#analytical-approach)
 ---
 
 ## 🚀 Overview
